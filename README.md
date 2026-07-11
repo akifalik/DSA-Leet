@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/akifalik/DSA-Leet/tree/master/0129-sum-root-to-leaf-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/akifalik/DSA-Leet/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/akifalik/DSA-Leet/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/akifalik/DSA-Leet/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
