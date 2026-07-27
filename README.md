@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0013-roman-to-integer](https://github.com/akifalik/DSA-Leet/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/akifalik/DSA-Leet/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/akifalik/DSA-Leet/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/akifalik/DSA-Leet/tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akifalik/DSA-Leet/tree/master/0074-search-a-2d-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/akifalik/DSA-Leet/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
