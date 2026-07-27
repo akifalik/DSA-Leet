@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akifalik/DSA-Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/akifalik/DSA-Leet/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/akifalik/DSA-Leet/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/akifalik/DSA-Leet/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/akifalik/DSA-Leet/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/akifalik/DSA-Leet/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/akifalik/DSA-Leet/tree/master/0189-rotate-array) |
@@ -66,8 +67,13 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/akifalik/DSA-Leet/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/akifalik/DSA-Leet/tree/master/0074-search-a-2d-matrix) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akifalik/DSA-Leet/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/akifalik/DSA-Leet/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
