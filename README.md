@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0013-roman-to-integer](https://github.com/akifalik/DSA-Leet/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/akifalik/DSA-Leet/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/akifalik/DSA-Leet/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0136-single-number](https://github.com/akifalik/DSA-Leet/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/akifalik/DSA-Leet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akifalik/DSA-Leet/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/akifalik/DSA-Leet/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/akifalik/DSA-Leet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/akifalik/DSA-Leet/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akifalik/DSA-Leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akifalik/DSA-Leet/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/akifalik/DSA-Leet/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/akifalik/DSA-Leet/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akifalik/DSA-Leet/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/akifalik/DSA-Leet/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
