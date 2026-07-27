@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/akifalik/DSA-Leet/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/akifalik/DSA-Leet/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0074-search-a-2d-matrix](https://github.com/akifalik/DSA-Leet/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/akifalik/DSA-Leet/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/akifalik/DSA-Leet/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/akifalik/DSA-Leet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akifalik/DSA-Leet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akifalik/DSA-Leet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/akifalik/DSA-Leet/tree/master/0485-max-consecutive-ones) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akifalik/DSA-Leet/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/akifalik/DSA-Leet/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akifalik/DSA-Leet/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/akifalik/DSA-Leet/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akifalik/DSA-Leet/tree/master/0050-powx-n) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akifalik/DSA-Leet/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
