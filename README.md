@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0169-majority-element](https://github.com/akifalik/DSA-Leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/akifalik/DSA-Leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/akifalik/DSA-Leet/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/akifalik/DSA-Leet/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0189-rotate-array](https://github.com/akifalik/DSA-Leet/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/akifalik/DSA-Leet/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/akifalik/DSA-Leet/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/akifalik/DSA-Leet/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akifalik/DSA-Leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0053-maximum-subarray](https://github.com/akifalik/DSA-Leet/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/akifalik/DSA-Leet/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0169-majority-element](https://github.com/akifalik/DSA-Leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/akifalik/DSA-Leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/akifalik/DSA-Leet/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0169-majority-element](https://github.com/akifalik/DSA-Leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/akifalik/DSA-Leet/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -124,4 +129,16 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/akifalik/DSA-Leet/tree/master/0567-permutation-in-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
