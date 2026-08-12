@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0242-valid-anagram](https://github.com/akifalik/DSA-Leet/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/akifalik/DSA-Leet/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0283-move-zeroes](https://github.com/akifalik/DSA-Leet/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/akifalik/DSA-Leet/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akifalik/DSA-Leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0229-majority-element-ii](https://github.com/akifalik/DSA-Leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/akifalik/DSA-Leet/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0169-majority-element](https://github.com/akifalik/DSA-Leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/akifalik/DSA-Leet/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/akifalik/DSA-Leet/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/akifalik/DSA-Leet/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
