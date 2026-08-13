@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0485-max-consecutive-ones](https://github.com/akifalik/DSA-Leet/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/akifalik/DSA-Leet/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/akifalik/DSA-Leet/tree/master/1652-defuse-the-bomb) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akifalik/DSA-Leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0567-permutation-in-string](https://github.com/akifalik/DSA-Leet/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/akifalik/DSA-Leet/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/akifalik/DSA-Leet/tree/master/1652-defuse-the-bomb) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
