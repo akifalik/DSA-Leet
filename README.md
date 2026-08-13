@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/akifalik/DSA-Leet/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akifalik/DSA-Leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0344-reverse-string](https://github.com/akifalik/DSA-Leet/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/akifalik/DSA-Leet/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/akifalik/DSA-Leet/tree/master/0567-permutation-in-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akifalik/DSA-Leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/akifalik/DSA-Leet/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0229-majority-element-ii](https://github.com/akifalik/DSA-Leet/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akifalik/DSA-Leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/akifalik/DSA-Leet/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/akifalik/DSA-Leet/tree/master/1652-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akifalik/DSA-Leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
