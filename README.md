@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0048-rotate-image](https://github.com/akifalik/DSA-Leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/akifalik/DSA-Leet/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/akifalik/DSA-Leet/tree/master/0189-rotate-array) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/akifalik/DSA-Leet/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0567-permutation-in-string](https://github.com/akifalik/DSA-Leet/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akifalik/DSA-Leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/akifalik/DSA-Leet/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/akifalik/DSA-Leet/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1652-defuse-the-bomb](https://github.com/akifalik/DSA-Leet/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akifalik/DSA-Leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akifalik/DSA-Leet/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/akifalik/DSA-Leet/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
