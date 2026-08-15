@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0567-permutation-in-string](https://github.com/akifalik/DSA-Leet/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akifalik/DSA-Leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/akifalik/DSA-Leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akifalik/DSA-Leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/akifalik/DSA-Leet/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/akifalik/DSA-Leet/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/akifalik/DSA-Leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akifalik/DSA-Leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akifalik/DSA-Leet/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/akifalik/DSA-Leet/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/akifalik/DSA-Leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
