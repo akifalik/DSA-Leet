@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0049-group-anagrams](https://github.com/akifalik/DSA-Leet/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/akifalik/DSA-Leet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/akifalik/DSA-Leet/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/akifalik/DSA-Leet/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/akifalik/DSA-Leet/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/akifalik/DSA-Leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/akifalik/DSA-Leet/tree/master/0242-valid-anagram) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0049-group-anagrams](https://github.com/akifalik/DSA-Leet/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/akifalik/DSA-Leet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akifalik/DSA-Leet/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/akifalik/DSA-Leet/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/akifalik/DSA-Leet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akifalik/DSA-Leet/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/akifalik/DSA-Leet/tree/master/0443-string-compression) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/akifalik/DSA-Leet/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/akifalik/DSA-Leet/tree/master/0187-repeated-dna-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/akifalik/DSA-Leet/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/akifalik/DSA-Leet/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/akifalik/DSA-Leet/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
@@ -172,4 +176,20 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/akifalik/DSA-Leet/tree/master/0128-longest-consecutive-sequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/akifalik/DSA-Leet/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/akifalik/DSA-Leet/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/akifalik/DSA-Leet/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/akifalik/DSA-Leet/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
