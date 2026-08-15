@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0136-single-number](https://github.com/akifalik/DSA-Leet/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/akifalik/DSA-Leet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akifalik/DSA-Leet/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/akifalik/DSA-Leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akifalik/DSA-Leet/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/akifalik/DSA-Leet/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/akifalik/DSA-Leet/tree/master/0283-move-zeroes) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akifalik/DSA-Leet/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/akifalik/DSA-Leet/tree/master/0209-minimum-size-subarray-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/akifalik/DSA-Leet/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/akifalik/DSA-Leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akifalik/DSA-Leet/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/akifalik/DSA-Leet/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/akifalik/DSA-Leet/tree/master/0187-repeated-dna-sequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akifalik/DSA-Leet/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
