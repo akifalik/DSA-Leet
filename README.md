@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0242-valid-anagram](https://github.com/akifalik/DSA-Leet/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/akifalik/DSA-Leet/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/akifalik/DSA-Leet/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/akifalik/DSA-Leet/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akifalik/DSA-Leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0187-repeated-dna-sequences](https://github.com/akifalik/DSA-Leet/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/akifalik/DSA-Leet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akifalik/DSA-Leet/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/akifalik/DSA-Leet/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/akifalik/DSA-Leet/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/akifalik/DSA-Leet/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akifalik/DSA-Leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0169-majority-element](https://github.com/akifalik/DSA-Leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/akifalik/DSA-Leet/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/akifalik/DSA-Leet/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akifalik/DSA-Leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
