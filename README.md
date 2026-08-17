@@ -214,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akifalik/DSA-Leet/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/akifalik/DSA-Leet/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
