@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/akifalik/DSA-Leet/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/akifalik/DSA-Leet/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/akifalik/DSA-Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/akifalik/DSA-Leet/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akifalik/DSA-Leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0242-valid-anagram](https://github.com/akifalik/DSA-Leet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akifalik/DSA-Leet/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/akifalik/DSA-Leet/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/akifalik/DSA-Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/akifalik/DSA-Leet/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/akifalik/DSA-Leet/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akifalik/DSA-Leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0229-majority-element-ii](https://github.com/akifalik/DSA-Leet/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/akifalik/DSA-Leet/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/akifalik/DSA-Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akifalik/DSA-Leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akifalik/DSA-Leet/tree/master/0209-minimum-size-subarray-sum) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/akifalik/DSA-Leet/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
