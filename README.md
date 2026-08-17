@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0229-majority-element-ii](https://github.com/akifalik/DSA-Leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/akifalik/DSA-Leet/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/akifalik/DSA-Leet/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/akifalik/DSA-Leet/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akifalik/DSA-Leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0189-rotate-array](https://github.com/akifalik/DSA-Leet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akifalik/DSA-Leet/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/akifalik/DSA-Leet/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/akifalik/DSA-Leet/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/akifalik/DSA-Leet/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/akifalik/DSA-Leet/tree/master/0567-permutation-in-string) |
 ## Array
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0229-majority-element-ii](https://github.com/akifalik/DSA-Leet/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/akifalik/DSA-Leet/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/akifalik/DSA-Leet/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/akifalik/DSA-Leet/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/akifalik/DSA-Leet/tree/master/0643-maximum-average-subarray-i) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0229-majority-element-ii](https://github.com/akifalik/DSA-Leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/akifalik/DSA-Leet/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/akifalik/DSA-Leet/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/akifalik/DSA-Leet/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/akifalik/DSA-Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akifalik/DSA-Leet/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Binary Search
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akifalik/DSA-Leet/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/akifalik/DSA-Leet/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/akifalik/DSA-Leet/tree/master/0349-intersection-of-two-arrays) |
 ## Recursion
 |  |
 | ------- |
