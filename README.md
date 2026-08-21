@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0048-rotate-image](https://github.com/akifalik/DSA-Leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/akifalik/DSA-Leet/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/akifalik/DSA-Leet/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/akifalik/DSA-Leet/tree/master/0258-add-digits) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/akifalik/DSA-Leet/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## String
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/akifalik/DSA-Leet/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/akifalik/DSA-Leet/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview.
 | [0182-duplicate-emails](https://github.com/akifalik/DSA-Leet/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/akifalik/DSA-Leet/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/akifalik/DSA-Leet/tree/master/0511-game-play-analysis-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/akifalik/DSA-Leet/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
